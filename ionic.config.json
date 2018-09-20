@@ -1,0 +1,7 @@
+{
+  "name": "networkBug",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
